@@ -1,0 +1,17 @@
+html,
+body {
+	background: #121212;
+	overflow: hidden;
+}
+
+#canvas {
+	margin: 30px auto;
+	display: block;
+	z-index: 1;
+	border-style: solid;
+	border-width: 10px;
+	border-left-color: #99B4E1;
+	border-top-color: #99B4E1;
+	border-right-color: #4A5B89;
+	border-bottom-color: #4A5B89;
+}
